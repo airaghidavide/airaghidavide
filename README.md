@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/X74GowOffr9neONg2K/giphy.gif">
+  <img src="https://i.pinimg.com/originals/97/15/c8/9715c8a695e64d0c6b664329387a231e.gif">
 </p>
   
-
   
   
 ### 👋 Hi!
