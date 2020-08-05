@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://15d.co/wp-content/uploads/2018/04/3loaders.gif">
+  <img src="https://media3.giphy.com/media/X74GowOffr9neONg2K/giphy.gif">
 </p>
 
   
