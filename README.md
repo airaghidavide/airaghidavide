@@ -17,5 +17,5 @@ I'm currently working as Oracle data engineer @ <a href="https://www.reti.it/"> 
 |---|---|---|
 
 ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=airaghidavide)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airaghidavide&layout=compact)
 ----
