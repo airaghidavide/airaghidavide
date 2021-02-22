@@ -9,7 +9,7 @@
   
 I'm currently working as Oracle data engineer @ <a href="https://www.reti.it/"> Reti S.p.A</a>
 - 📚 BSc - Management Engineering @ <a href="https://www.polimi.it/en"> Politecnico of Milan</a>
-- 💥 MU1 - Business intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
+- 📚 MU1 - Business intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - ⚡ Quote: The unhapiness thrives due to the lackness of passions (Niki Lauda)
 - 📫 How to reach me:
 
