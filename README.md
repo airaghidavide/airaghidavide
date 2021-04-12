@@ -13,8 +13,8 @@ I'm currently working as Oracle data engineer @ <a href="https://www.reti.it/"> 
 - ⚡ Quote: The unhapiness thrives due to the lackness of passions (Niki Lauda)
 - 📫 How to reach me:
 
-| [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/github.png" alt="github logo" width="34">](https://github.com/airaghidavide) | [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://it.linkedin.com/in/airaghidavide) |  [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/gmail.jpeg" alt="gmail logo" width="24">](airaghi.davide@gmail.com)
-|---|---|---|
+| [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/github.png" alt="github logo" width="34">](https://github.com/airaghidavide) | [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://it.linkedin.com/in/airaghidavide) |  [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/gmail.jpeg" alt="gmail logo" width="24">](airaghi.davide@gmail.com) | [<img src="https://github.com/airaghidavide/airaghidavide/blob/master/instagram.png" alt="instagram logo" width="24">](https://www.instagram.com/airaghi.davide)
+|---|---|---|---|
 
 ----
 
