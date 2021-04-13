@@ -23,7 +23,3 @@ I'm currently working as Oracle data engineer @ <a href="https://www.reti.it/"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airaghidavide&layout=compact)
 
 ----
-
-### Profile Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=airaghidavide)
-----
