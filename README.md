@@ -8,8 +8,8 @@
 :computer: SQL,Python,NoSQL,Data Engineering,BigData
   
 I'm currently working as Data Engineer @ <a href="https://www.reti.it/"> Reti S.p.A</a>
-- 📚 BSc - Management Engineering @ <a href="https://www.polimi.it/en">Polytechnic University of Milan</a>
-- 📚 MU1 - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
+- 📚 BSc - Bachelor of Science - Management Engineering @ <a href="https://www.polimi.it/en">Polytechnic University of Milan</a>
+- 📚 MU1 - University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - ⚡ Quote: The unhapiness thrives due to the lackness of passions (Niki Lauda)
 - 📫 How to reach me:
 
