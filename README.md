@@ -8,6 +8,7 @@
 I'm currently working as Senior Data Engineer @ <a href="https://www.be-tse.it/it/"> Be </a>
 - 📚 BSc - Bachelor of Science - Management Engineering @ <a href="https://www.polimi.it/en">Polytechnic University of Milan</a>
 - 📚 MU1 - First Level University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
+- 💻 Community member of <a href="https://github.com/PythonBiellaGroup"> PythonBiellaGroup </a>
 - ⚡ Quote: The technology you use impresses no one. The experience you create with it is everything (Sean Gerety)
 - 📫 How to reach me:
 
