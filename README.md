@@ -5,7 +5,7 @@
   
 ### 👋 Hi!
   
-I'm currently working as Senior Data Engineer @ <a href="https://www.be-tse.it/it/"> Be </a>
+I'm currently working as Senior Data Engineer @ <a href="https://www.hype.it/landing-a-new?utm_source=google&utm_medium=cpc&utm_campaign=brand&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIURJwbZoc5hhUD0EUwfM4nHL1P5UOvXwb1pC7m6Es0Wh3VaQCnUqmxoC_eAQAvD_BwE&gclsrc=aw.ds"> Hype </a>
 - 📚 BSc - Bachelor of Science - Management Engineering @ <a href="https://www.polimi.it/en">Polytechnic University of Milan</a>
 - 📚 MU1 - First Level University Master - Business Intelligence and Big Data analytics @ <a href="https://www.unimib.it/"> University of Milan Bicocca</a>
 - 💻 Community member of <a href="https://github.com/PythonBiellaGroup"> PythonBiellaGroup </a>
