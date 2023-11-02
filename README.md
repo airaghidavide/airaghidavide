@@ -20,4 +20,3 @@ I'm currently working as Senior Data Engineer @ <a href="https://www.hype.it/lan
 ### How about some stats ?
 ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=airaghidavide&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airaghidavide&layout=compact)
-![Gists](https://gists-readme.yizack.com/api?user=airaghidavide)
